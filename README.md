@@ -1,5 +1,4 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sehyun%20Github!&fontSize=70" /></div>
-
 <div align="center">
   <h3>📚 Teck Stack 📚</h3>
   <p>🎨 Platforms & Language 🎨</p>
