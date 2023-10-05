@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" /><br><br>
 
-### 📚 <div align="center" <b>Teck Stack</b></div> 📚
+### 📚 <div align="center"> <b>Teck Stack</b></div> 📚
 <div align="center">🎨💡 Platforms & Language 💡</div>
 <div align="center"></div>
 
