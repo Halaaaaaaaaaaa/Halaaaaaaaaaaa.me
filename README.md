@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sehyun%20Github!&fontSize=90" /><br><br>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sehyun%20Github!&fontSize=90" /></div><br><br>
 
 ### <div align="center">📚 <b>Teck Stack</b> 📚</div>
 <div align="center">🎨💡 Platforms & Language 💡</div>
